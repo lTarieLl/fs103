@@ -1,4 +1,4 @@
 # fs103
 ## Siliconmade Academy f103
-## - Oyun geliþtirme
+## - Oyun gelistirme
 ## - Full Stack
